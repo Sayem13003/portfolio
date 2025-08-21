@@ -1,11 +1,11 @@
 
 
 ## Education
-- Ph.D., Electrical Engineering  | University of Central Florida(_May 2024 - Present)								       		
-- B.Sc., Electrical and Electronics Engineering |University of Dhaka (_May 2017_)
+- Ph.D., Electrical Engineering  | University of Central Florida(_August 2024 - Present)								       		
+- B.Sc., Electrical and Electronics Engineering |University of Dhaka (_Jan 2018 - Jan 2023)
 
 ## Work Experience
-**Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
+**Graduate Research Assistant @ University of Central Florida (_August 2024 - Present_)**
 - Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
 - Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
 
