@@ -30,8 +30,8 @@ Used **Matlab** to train over 100 machine learning models which estimated partic
 
 
 ## Publications
-1. Faizul Rakib Sayem and Shahana Ibrahim, ”Subspace representation learning based prompt optimization for few-shot out-of-distribution detection”, Proceedings of the AAAI Conference on Artificial Intelligence, 2026 (under review).
-2. Faizul Rakib Sayem and Shahana Ibrahim, ”Robust Multi-Label Learning with Human-Guided and Foun- dation Model-Aided Crowd Framework”, IEEE International Conference on Image Processing (ICIP), 2025 (Accepted).
+1. Faizul Rakib Sayem and Shahana Ibrahim, ”Subspace Representation Learning Based Prompt Optimization for Few-Shot Out-of-Distribution Detection”, Proceedings of the AAAI Conference on Artificial Intelligence, 2026 (under review).
+2. Faizul Rakib Sayem and Shahana Ibrahim, ”Robust Multi-Label Learning with Human-Guided and Foundation Model-Aided Crowd Framework”, IEEE International Conference on Image Processing (ICIP), 2025 (Accepted).
 3. Tarhib Al Azad, Faizul Rakib Sayem, and Shahana Ibrahim. "Pseudo-label Induced Subspace Representation Learning for Robust Out-of-Distribution Detection." arXiv preprint arXiv:2508.03108 (2025).
 4. Faizul Rakib Sayem, and Shahana Ibrahim. "Prompt Optimization Meets Subspace Representation Learning for Few-shot Out-of-Distribution Detection." In First International KDD Workshop on Prompt Optimization, 2025. 2025.
 5. Faizul Rakib Sayem, Md Sakib Bin Islam, Mansura Naznine, Mohammad Nashbat, Mazhar Hasan-Zia, Ali K. Ansaruddin Kunju, Amith Khandakar et al. "Enhancing waste sorting and recycling efficiency: robust deep learning-based approach for classification and detection." Neural Computing and Applications 37, no. 6 (2025): 4567-4583.
