@@ -8,7 +8,7 @@
 **Graduate Research Assistant @ University of Central Florida (August 2024 - Present )**
 - A vision-language model induced prompt learning framework that leverages subspace projection to enhance ID/OOD separability for robust out-of-distribution detection.
 - Pseudo-label Induced Subspace Representation Learning for Robust Out-of-Distribution Detection.
-- Proposed a Foundation model aided crowd framework that integrates noisy annotations from different foundation models for robust multi-label recognition task.
+- Proposed a Foundation model aided crowd framework that integrates noisy annotations from different foundation models. and positive class confusion matrices for robust multi-label recognition task.
 
 **ML Research Assistant  @ Qatar University (April 2022 - May 2024)**
 - Developed a 1D CycleGAN-based AF detection framework with Self-ONN layers, improving accuracy by 3.5% in restoring poor-quality wrist PPG signals.
