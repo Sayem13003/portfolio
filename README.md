@@ -30,8 +30,8 @@ Used **Matlab** to train over 100 machine learning models which estimated partic
 
 
 ## Publications
-1. Talebi S., Lary D.J., Wijeratne L. OH., and Lary, T. Modeling Autonomic Pupillary Responses from External Stimuli Using Machine Learning (2019). DOI: 10.26717/BJSTR.2019.20.003446
-2. Wijeratne, L.O.; Kiv, D.R.; Aker, A.R.; Talebi, S.; Lary, D.J. Using Machine Learning for the Calibration of Airborne Particulate Sensors. Sensors 2020, 20, 99.
+1. Faizul Rakib Sayem and Shahana Ibrahim, ”Subspace Representation Learning based Prompt Optimization for Few-shot Out-of-Distribution Detection”, Proceedings of the AAAI Conference on Artificial Intelligence, 2026 (under review).
+2. Faizul Rakib Sayem and Shahana Ibrahim, ”Robust Multi-Label Learning with Human-Guided and Foun- dation Model-Aided Crowd Framework”, IEEE International Conference on Image Processing (ICIP), 2025 (Accepted).
 3. Tarhib Al Azad, Faizul Rakib Sayem, and Shahana Ibrahim. "Pseudo-label Induced Subspace Representation Learning for Robust Out-of-Distribution Detection." arXiv preprint arXiv:2508.03108 (2025).
 4. Faizul Rakib Sayem, and Shahana Ibrahim. "Prompt Optimization Meets Subspace Representation Learning for Few-shot Out-of-Distribution Detection." In First International KDD Workshop on Prompt Optimization, 2025. 2025.
 5. Faizul Rakib Sayem, Md Sakib Bin Islam, Mansura Naznine, Mohammad Nashbat, Mazhar Hasan-Zia, Ali K. Ansaruddin Kunju, Amith Khandakar et al. "Enhancing waste sorting and recycling efficiency: robust deep learning-based approach for classification and detection." Neural Computing and Applications 37, no. 6 (2025): 4567-4583.
