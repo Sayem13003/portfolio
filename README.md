@@ -6,12 +6,13 @@
 
 ## Work Experience
 **Graduate Research Assistant @ University of Central Florida (August 2024 - Present )**
-- Vision language model induced prompt learning framework that combines subspace representation for robust Out-of-distribution detection.
+- A vision-language model induced prompt learning framework that leverages subspace projection to enhance ID/OOD separability for robust out-of-distribution detection.
+- Pseudo-label Induced Subspace Representation Learning for Robust Out-of-Distribution Detection.
 - Proposed a Foundation model aided crowd framework that integrates noisy annotations from different foundation models for robust multi-label recognition task.
 
-**ML Research Assistant  @ Qatar University (December 2020 - Present)**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
+**ML Research Assistant  @ Qatar University (April 2022 - May 2024)**
+- Developed a 1D CycleGAN-based AF detection framework with Self-ONN layers, improving accuracy by 3.5% in restoring poor-quality wrist PPG signals.
+- Developed a robust model combining DenseNet-201 and Multi-axis Vision Transformer with data augmentation to classify 28 categories of waste images.
 
 ## Projects
 ### Data-Driven EEG Band Discovery with Decision Trees
