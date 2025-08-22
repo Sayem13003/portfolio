@@ -6,7 +6,7 @@
 
 ## Work Experience
 **Graduate Research Assistant @ University of Central Florida (_August 2024 - Present_)**
-- Vision language model induced prompt learning framework that combines subspace representation  for Out-of-distribution detection.
+- Vision language model induced prompt learning framework that combines subspace representation for robust Out-of-distribution detection.
 - Proposed a Foundation model aided crowd framework that integrates noisy annotations from different foundation models for robust multi-label recognition task.
 
 **Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
