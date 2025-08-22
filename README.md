@@ -1,15 +1,15 @@
 
 
 ## Education
-- Ph.D., Electrical Engineering  | University of Central Florida(_August 2024 - Present)								       		
-- B.Sc., Electrical and Electronics Engineering |University of Dhaka (_Jan 2018 - Jan 2023)
+- Ph.D., Electrical Engineering  | University of Central Florida( August 2024 - Present)								       		
+- B.Sc., Electrical and Electronics Engineering |University of Dhaka ( Jan 2018 - Jan 2023)
 
 ## Work Experience
-**Graduate Research Assistant @ University of Central Florida (_August 2024 - Present_)**
+**Graduate Research Assistant @ University of Central Florida ( August 2024 - Present_)**
 - Vision language model induced prompt learning framework that combines subspace representation for robust Out-of-distribution detection.
 - Proposed a Foundation model aided crowd framework that integrates noisy annotations from different foundation models for robust multi-label recognition task.
 
-**Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
+**Data Science Consultant @ Shawhin Talebi Ventures LLC ( December 2020 - Present_)**
 - Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
 - Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
 
