@@ -13,6 +13,7 @@
 **ML Research Assistant  @ Qatar University (April 2022 - May 2024)**
 - Developed a 1D CycleGAN-based AF detection framework with Self-ONN layers, improving accuracy by 3.5% in restoring poor-quality wrist PPG signals.
 - Developed a robust model combining DenseNet-201 and Multi-axis Vision Transformer with data augmentation to classify 28 categories of waste images.
+- Applied several domain adaptation techniques to improve raman bacteria classification performance from cross-device spectrum datasets.
 
 ## Projects
 ### Data-Driven EEG Band Discovery with Decision Trees
