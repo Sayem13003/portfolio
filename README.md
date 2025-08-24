@@ -17,11 +17,10 @@
 - Applied several domain adaptation techniques to improve raman bacteria classification performance from cross-device spectrum datasets.
   
 ## Projects
-### Data-Driven EEG Band Discovery with Decision Trees
-[Publication](https://www.mdpi.com/1424-8220/22/8/3048)
+### Vision Language Model Based Prompt Optimizaton with Subspace Representation Learning for Few-shot Out-of-Distribution Detection
 
-Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
 
+Recent advances in large-scale vision-language models have enabled promising few-shot OOD detection frameworks using only a handful of in-distribution (ID) samples. Existing prompt learning methods in vision language models focus only on softmax outputs, neglecting the discriminative strength of feature embeddings. To address this, we propose a context optimization based framework that combines subspace representation learning with prompt tuning, enhancing ID-OOD separability through subspace and null-space projections. Our end-to-end learning criterion achieves strong OOD detection while maintaining high ID classification accuracy, validated through experiments on real-world datasets.
 ![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
 
 ### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
