@@ -21,7 +21,7 @@
 
 
 Recent advances in large-scale vision-language models have enabled promising few-shot OOD detection frameworks using only a handful of in-distribution (ID) samples. Existing prompt learning methods in vision language models focus only on softmax outputs, neglecting the discriminative strength of feature embeddings. To address this, we propose a context optimization based framework that combines subspace representation learning with prompt tuning, enhancing ID-OOD separability through subspace and null-space projections. Our end-to-end learning criterion achieves strong OOD detection while maintaining high ID classification accuracy, validated through experiments on real-world datasets.
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
+![EEG Band Discovery](/assets/subcoop_v2.png)
 
 ### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
 [Publication](https://www.mdpi.com/1424-8220/22/11/4240)
