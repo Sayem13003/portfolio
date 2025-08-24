@@ -26,9 +26,8 @@ Recent advances in large-scale vision-language models have enabled promising few
 ### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
 [Publication](https://www.mdpi.com/1424-8220/22/11/4240)
 
-Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
-
-![Bike Study](/assets/img/bike_study.jpeg)
+Multi-label learning is vital for AI applications but suffers from noisy and expensive annotations, as each instance requires multiple labels from diverse annotators. Recent advances in foundation models such as CLIP provide pseudo-labels to reduce annotation costs, but these predictions are not optimized for multi-label tasks and often introduce additional noise. We propose a novel crowd framework that robustly integrates human annotations with different CLIP based pseudo-labels using modeling and factorization techniques. A geometric regularization with end-to-end learning criterion ensures robustness, and experiments on real-world datasets demonstrate the effectiveness of our approach
+![Bike Study](/assests/img/bike_study.jpeg)
 
 
 ## Publications
