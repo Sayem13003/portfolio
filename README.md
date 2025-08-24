@@ -24,10 +24,9 @@ Recent advances in large-scale vision-language models have enabled promising few
 ![EEG Band Discovery](/assests/subcoop_v2.png)
 
 ### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
-[Publication](https://www.mdpi.com/1424-8220/22/11/4240)
 
 Multi-label learning is vital for AI applications but suffers from noisy and expensive annotations, as each instance requires multiple labels from diverse annotators. Recent advances in foundation models such as CLIP provide pseudo-labels to reduce annotation costs, but these predictions are not optimized for multi-label tasks and often introduce additional noise. We propose a novel crowd framework that robustly integrates human annotations with different CLIP based pseudo-labels using modeling and factorization techniques. A geometric regularization with end-to-end learning criterion ensures robustness, and experiments on real-world datasets demonstrate the effectiveness of our approach
-![Bike Study](/assests/img/bike_study.jpeg)
+![Bike Study](/assests/new_3.png)
 
 
 ## Publications
