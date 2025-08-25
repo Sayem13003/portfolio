@@ -28,10 +28,7 @@ Multi-label learning is vital for AI applications but suffers from noisy and exp
 ![Bike Study](/assests/new3.png)
 ### Text-to-Image Generation with LLM guided image refinement
 Modern text-to-image systems based on diffusion models struggle with complex prompts describing multi-object scenes with fine-grained attributes and spatial relationships. To address this, we incorporate large language models (LLMs) to analyze prompts and use an open-vocabulary detector to verify whether generated images match the extracted details. If inconsistencies arise, the LLM suggests localized adjustments in the latent representation, refining errors while preserving correct regions. Preliminary experiments demonstrate that this training-free pipeline achieves promising results in both text-to-image generation and image editing, offering precise control over object placement and attributes.
-<p align="center">
-  <img src="/assests/methodd.png"  width="900" height="600"/>
-</p>
-
+![Bike Study](/assests/methodd.png)
 
 
 ## Publications
