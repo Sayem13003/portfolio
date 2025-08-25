@@ -4,18 +4,5 @@ logo: /assests/Sayem_2.jpg
 #show_downloads: true
 theme: jekyll-theme-minimal
 
-#title: Faizul Rakib Sayem
-#logo: /assets/Sayem_2.jpg
-# description: text below image   # (remove or comment this if you don’t want text)
-# show_downloads: true            # (remove to hide download link)
 
-#remote_theme: pages-themes/minimal
-#plugins:
-#  - jekyll-remote-theme
-
-# Optional: Custom CSS override
-#include:
-#  - assests/css/style.css
-#sass:
-#  style: compressed
 
