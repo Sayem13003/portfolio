@@ -31,6 +31,9 @@ Modern text-to-image systems based on diffusion models struggle with complex pro
 <p align="center">
   <img src="/assests/methodd.png"  width="900" height="600"/>
 </p>
+
+
+
 ## Publications
 1. Faizul Rakib Sayem and Shahana Ibrahim, ”Subspace Representation Learning Based Prompt Optimization for Few-Shot Out-of-Distribution Detection”, Proceedings of the AAAI Conference on Artificial Intelligence, 2026 (under review).
 2. Faizul Rakib Sayem and Shahana Ibrahim, ”Robust Multi-Label Learning with Human-Guided and Foundation Model-Aided Crowd Framework”, IEEE International Conference on Image Processing (ICIP), 2025 (Accepted).
