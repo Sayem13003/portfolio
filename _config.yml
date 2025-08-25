@@ -3,9 +3,9 @@ logo: /assests/Sayem_2.jpg
 #description: text below image
 #show_downloads: true
 description: >
-  PhD Student in Electrical Engineering at University of Central Florida.  
-  Research in Vision-Language Models, Out-of-Distribution Detection,  
-  and Multi-label Learning. 
+I am currently a 2nd year PhD student at the University of Central Florida. 
+I am working on weak supervision and noise learning with vision language modeling.
+My research interest lies in vision language modeling, LLM, object hallucination mitigation, and alignment with human feedback.
 theme: jekyll-theme-minimal
 
 
