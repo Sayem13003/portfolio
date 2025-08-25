@@ -29,7 +29,7 @@ Multi-label learning is vital for AI applications but suffers from noisy and exp
 ### Text-to-Image Generation with LLM guided image refinement
 Modern text-to-image systems based on diffusion models struggle with complex prompts describing multi-object scenes with fine-grained attributes and spatial relationships. To address this, we incorporate large language models (LLMs) to analyze prompts and use an open-vocabulary detector to verify whether generated images match the extracted details. If inconsistencies arise, the LLM suggests localized adjustments in the latent representation, refining errors while preserving correct regions. Preliminary experiments demonstrate that this training-free pipeline achieves promising results in both text-to-image generation and image editing, offering precise control over object placement and attributes.
 <p align="center">
-  <img src="/assests/method.png"  width="500" height="350"/>
+  <img src="/assests/methodd.png"  width="500" height="350"/>
 </p>
 ## Publications
 1. Faizul Rakib Sayem and Shahana Ibrahim, ”Subspace Representation Learning Based Prompt Optimization for Few-Shot Out-of-Distribution Detection”, Proceedings of the AAAI Conference on Artificial Intelligence, 2026 (under review).
