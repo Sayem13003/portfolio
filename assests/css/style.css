@@ -1,1 +1,4 @@
-
+/* Hide GitHub Pages + theme credit footer */
+footer.site-footer {
+  display: none !important;
+}
