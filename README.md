@@ -1,8 +1,12 @@
 
 
 ## Education
-- Ph.D., Electrical Engineering  | University of Central Florida( August 2024 - Present)								       		
-- B.Sc., Electrical and Electronics Engineering |University of Dhaka ( Jan 2018 - Jan 2023)
+
+- **Ph.D., Electrical Engineering**  
+  University of Central Florida (Aug 2024 – Present)
+
+- **B.Sc., Electrical and Electronics Engineering**  
+  University of Dhaka (Jan 2018 – Jan 2023)
 
 ## Work Experience
 **Graduate Research Assistant @ University of Central Florida (August 2024 - Present )**
